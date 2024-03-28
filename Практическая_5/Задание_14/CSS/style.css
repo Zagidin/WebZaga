@@ -12,11 +12,14 @@ body {
 	font-size: 21px;
 	color: white;
 	border-top: 1px solid #76214B;
+	position: fixed;
+	top: 0;
 }
 
 #text {
 	width: 600px;
 	margin: 10px auto 60px auto;
 	padding: 20px;
+	margin-top: 85px;
 	border: 1px solid #abb45b;
 }

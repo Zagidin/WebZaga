@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+    font: 20px Arial bold;
+}
+
+a:hover {
+    color: red;
+    font-size: 25px;
+}

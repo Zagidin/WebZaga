@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+}
+
+a li {
+    text-align: center;
+    list-style: none;
+    color: blue;
+    border: 2px solid blue;
+    width: 200px;
+    margin-bottom: 5px;
+    font: 20px Arial bold;
+    padding: 10px;
+    margin-right: 4px; 
+    float: left;
+    /* display: inline list-item; */
+}
+
+a li:hover {
+    color: red;
+    
+}
+
+#skip {
+    padding-top: 140px;
+}
+
+#header {
+    padding-top: 20px;
+}
