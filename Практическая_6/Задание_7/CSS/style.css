@@ -1,0 +1,37 @@
+img {
+    width: 100px;
+    height: 60px;
+
+}
+li:hover {
+    filter: invert(59%) sepia(33%) saturate(5427%) hue-rotate(162deg) brightness(102%) contrast(102%);
+}
+
+ul {
+   justify-content: center;
+    padding-top: 60px;
+    font: 20 Arial;
+    font-weight: bold;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+    flex-direction: column;
+    float: left;
+}
+
+
+#header {
+    padding-top: 5px;
+    margin: auto 0;
+}
+
+/* #skip {
+    padding-top: 140px;
+} */
